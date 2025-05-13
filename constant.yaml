@@ -1,0 +1,5 @@
+ROOT_DIR: 'data'
+DATASETS_ROOT: 'data/raw'
+DATASET_PATH: 'data/raw/PlantVillage'
+SPLITTED_PATH: 'data/splitted'
+AUG_PATH: 'data/augmented'
